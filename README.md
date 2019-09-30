@@ -2,7 +2,7 @@
 
 How to use github:
 
-GIT
+GIT: distributed version-control system for tracking changes in source code during software development.
 
 GITHUB
 
@@ -25,3 +25,6 @@ Merge Conflict
 Fetch
 
 Remote
+
+Works Cited:
+GIT Wikipedia
