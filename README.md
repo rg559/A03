@@ -18,7 +18,7 @@ Pull: when you fetch changes from someone working on a file that you want to mer
 
 Branch: a parallel version of a repository that does not affect the primary branch so it does not affect the live version.
 
-Merge
+Merge: merging combines two files from a repository or branch and combines them to create a joint file. 
 
 Merge Conflict
 
