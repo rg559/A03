@@ -12,7 +12,7 @@ Clone: downloading a copy of an existing repository project's source code from t
 
 Commit: a change to a file or set of files in a repository that names each Save a unique ID to help identify what changes were made to the file.
 
-Push
+Push: sending your committed changes to a remote repository so that other people can access it.
 
 Pull
 
