@@ -14,7 +14,7 @@ Commit: a change to a file or set of files in a repository that names each Save 
 
 Push: sending your committed changes to a remote repository so that other people can access it.
 
-Pull
+Pull: when you fetch changes from someone working on a file that you want to merge with your file so that it updates your file with other remotely-done changes. 
 
 Branch
 
