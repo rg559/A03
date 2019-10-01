@@ -20,7 +20,7 @@ Branch: a parallel version of a repository that does not affect the primary bran
 
 Merge: merging combines two files from a repository or branch and combines them to create a joint file. 
 
-Merge Conflict
+Merge Conflict: happens when two files have conficting changes to a line or multiple lines of code 
 
 Fetch
 
