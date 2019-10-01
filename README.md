@@ -6,7 +6,7 @@ GIT: distributed version-control system for tracking changes in source code duri
 
 GITHUB: a Git repository hosting service that provides a user-friendly GUI with many collaboration tools.  
 
-Repository
+Repository: a folder or project in which all project files and version histories are saved.
 
 Clone
 
