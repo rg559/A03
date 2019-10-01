@@ -4,7 +4,7 @@ How to use github:
 
 GIT: distributed version-control system for tracking changes in source code during software development.
 
-GITHUB
+GITHUB: a Git repository hosting service that provides a user-friendly GUI with many collaboration tools.  
 
 Repository
 
