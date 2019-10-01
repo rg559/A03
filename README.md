@@ -8,7 +8,7 @@ GITHUB: a Git repository hosting service that provides a user-friendly GUI with 
 
 Repository: a folder or project in which all project files and version histories are saved.
 
-Clone
+Clone: downloading a copy of an existing repository project's source code from the source control
 
 Commit
 
