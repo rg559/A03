@@ -26,5 +26,19 @@ Fetch: getting the new changes from a file without merging them together so that
 
 Remote: where your files and repositories are stored on Git's servers so that you and collaborators can access them. 
 
+
 Works Cited:
-GIT Wikipedia
+
+https://en.wikipedia.org/wiki/Git
+
+https://help.github.com/en/articles/about-remote-repositories
+
+https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+
+https://help.github.com/en/articles/about-repositories
+
+https://stackoverflow.com/questions/5143119/what-does-this-mean-clone-the-github-repository
+
+https://help.github.com/en/articles/github-glossary
+
+https://help.github.com/en/articles/about-merge-conflicts
