@@ -16,7 +16,7 @@ Push: sending your committed changes to a remote repository so that other people
 
 Pull: when you fetch changes from someone working on a file that you want to merge with your file so that it updates your file with other remotely-done changes. 
 
-Branch
+Branch: a parallel version of a repository that does not affect the primary branch so it does not affect the live version.
 
 Merge
 
