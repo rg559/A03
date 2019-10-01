@@ -22,7 +22,7 @@ Merge: merging combines two files from a repository or branch and combines them 
 
 Merge Conflict: happens when two files have conficting changes to a line or multiple lines of code 
 
-Fetch
+Fetch: getting the new changes from a file without merging them together so that you can compare the versions
 
 Remote
 
