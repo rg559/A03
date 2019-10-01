@@ -24,7 +24,7 @@ Merge Conflict: happens when two files have conficting changes to a line or mult
 
 Fetch: getting the new changes from a file without merging them together so that you can compare the versions
 
-Remote
+Remote: where your files and repositories are stored on Git's servers so that you and collaborators can access them. 
 
 Works Cited:
 GIT Wikipedia
